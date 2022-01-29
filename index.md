@@ -1,8 +1,11 @@
 ## Insiders Analytics
 
-You can use the [editor on GitHub](https://github.com/elioamicarelli/about-insiders-analytics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+• An insider is anyone that owns more than 10% of a publicly traded company's voting shares
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+• Insider trading is when insiders buy or sell shares based on information not readily available to the public
+
+• I analyze data on insiders transactions recorded in SEC reports
+
 
 ### Markdown
 
