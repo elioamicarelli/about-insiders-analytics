@@ -1,2 +1,2 @@
 # about-insiders-analytics
-A landing page for insiders analytics
+Analytics from the SEC insiders' filings
