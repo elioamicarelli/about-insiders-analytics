@@ -2,7 +2,7 @@
 
 **Insiders Analytics provides free analyses and alarms on insiders´ trading based on data reported by the US Security and Exchange Commission (SEC).**
 
-**Don't miss daily reports and bi-weekly analyses [shipped on twitter @insidersanalyt1](https://twitter.com/insidersanalyt1).**
+**Don't miss daily reports and bi-weekly analyses, [follow Insiders Analytics on twitter @insidersanalyt1](https://twitter.com/insidersanalyt1).**
 
 **The information shared by Insiders Analytics does not constitutes financial and/or investment advice.**
 
@@ -22,10 +22,13 @@ Researchers have shown that insiders transaction may contain information on futu
 
 **The information shared and produced by Insiders Analytics does not constitute financial and/or investment advice. Data and analyses presented by Insiders Analytics may be subject to errors, you are always strongly encouraged to conduct your own financial research**.
 
-# Analyses
+# **Analyses**
 
-This section describes the different analyses [reported on twitter @insidersanalyt1](https://twitter.com/insidersanalyt1)
+This section describes the different analyses [you can find on Insiders Analytics twitter account @insidersanalyt1](https://twitter.com/insidersanalyt1)
 
 ## Daily Reports
+
+
+
 
 
