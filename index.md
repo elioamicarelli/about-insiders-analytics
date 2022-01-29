@@ -8,15 +8,15 @@
 
 **Insider** is a term describing a director or senior officer of a publicly traded company, as well as any person or entity, that beneficially **owns more than 10% of a company's voting shares** {1}. 
 
-Insiders may have access to privileged information that has not been made available to the public and that could substantially impact the company's stock price of the company shares. 
+**Insiders may have access to privileged information** that has not been made available to the public and that could substantially impact the company's stock price of the company shares. 
 
 **It's illegal for insiders to buy and sell shares of their company's stock based on their privileged information**. For this reason, Insiders have to comply with strict disclosure requirements set by the US Security and Exchange Commission (SEC) with regard to the sale or purchase of the shares of their company {2}. 
 
 ## Mining the SEC databases to track insiders' behavior 
 
-Corporate insiders are required to report their insider transactions within two business days of the date the transaction occurred. 
+Corporate insiders are required to report their insider transactions within two business days of the date the transaction occurred. **Insiders reports are collected and made publicly available via the SEC Electronic Data Gathering, Analysis, and Retrieval system (EDGAR)**.
 
-
+Researchers have shown that insiders transaction may contain information on future's stock performances{}{}. In order to contribute to the public knowledge of insiders' transactions, **Insiders Analytics** mines EDGAR's insiders reports and produce analyses based on this data.
 
 ### Markdown
 
