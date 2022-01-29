@@ -1,4 +1,4 @@
-### **About Insiders Analytics**
+# **About Insiders Analytics**
 
 **Insiders Analytics provides free analyses and alarms on insiders´ trading based on data reported by the US Security and Exchange Commission (SEC).**
 
