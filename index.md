@@ -1,6 +1,10 @@
 ## Insiders Analytics
 
-• An insider is anyone that owns more than 10% of a publicly traded company's voting shares
+Welcome! Insiders Analytics provides analyses and alarms based on data reported by the Security and Exchange Commission on insiders´ sales and purchases.
+
+## Insiders Analytics
+
+• An insider is anyone owning more than 10% of a publicly traded company's voting shares
 
 • Insider trading is when insiders buy or sell shares based on information not readily available to the public
 
