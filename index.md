@@ -4,7 +4,7 @@
 
 **Don't miss daily reports and bi-weekly analyses [shipped on twitter @insidersanalyt1](https://twitter.com/insidersanalyt1).**
 
-## Insiders: Who are they 
+## Insiders and Insider Trading
 
 **Insider** is a term describing a director or senior officer of a publicly traded company, as well as any person or entity, that beneficially **owns more than 10% of a company's voting shares** {1}. 
 
@@ -12,7 +12,10 @@ Insiders may have access to privileged information that has not been made availa
 
 **It's illegal for insiders to buy and sell shares of their company's stock based on their privileged information**. For this reason, Insiders have to comply with strict disclosure requirements set by the US Security and Exchange Commission (SEC) with regard to the sale or purchase of the shares of their company {2}. 
 
-## Insiders Analytics: Mining the SEC databases to track insiders' behavior 
+## Mining the SEC databases to track insiders' behavior 
+
+Corporate insiders are required to report their insider transactions within two business days of the date the transaction occurred. 
+
 
 
 ### Markdown
