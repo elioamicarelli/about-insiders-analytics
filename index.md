@@ -1,6 +1,8 @@
 ## Insiders Analytics
 
-Welcome! Insiders Analytics provides analyses and alarms based on data reported by the Security and Exchange Commission on insiders´ sales and purchases.
+Welcome! Insiders Analytics provides analyses and alarms based on data about insiders´ transactions reported by the Security and Exchange Commission.
+
+Don't miss daily reports and bi-weekly analyses [shipped on twitter @insidersanalyt1](https://twitter.com/insidersanalyt1)
 
 ## Insiders Analytics
 
