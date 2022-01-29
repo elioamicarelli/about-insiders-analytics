@@ -4,6 +4,8 @@
 
 **Don't miss daily reports and bi-weekly analyses [shipped on twitter @insidersanalyt1](https://twitter.com/insidersanalyt1).**
 
+**The information shared by Insiders Analytics does not constitutes financial and/or investment advice.**
+
 ## Insiders and Insider Trading
 
 **Insider** is a term describing a director or senior officer of a publicly traded company, as well as any person or entity, that beneficially **owns more than 10% of a company's voting shares** {1}. 
@@ -14,9 +16,11 @@
 
 ## Mining the SEC databases to track insiders' behavior 
 
-Corporate insiders are required to report their insider transactions within two business days of the date the transaction occurred. **Insiders reports are collected and made publicly available via the SEC Electronic Data Gathering, Analysis, and Retrieval system (EDGAR)**.
+Corporate insiders are required to report their insider transactions within two business days of the date the transaction occurred. **Insiders reports are collected and made publicly available via the SEC Electronic Data Gathering, Analysis, and Retrieval system (EDGAR)**{3}.
 
-Researchers have shown that insiders transaction may contain information on future's stock performances{}{}. In order to contribute to the public knowledge of insiders' transactions, **Insiders Analytics** mines EDGAR's insiders reports and produce analyses based on this data.
+Researchers have shown that insiders transaction may contain information on future's stock performances{4}{5}{6}. In order to contribute to the public knowledge of insiders' transactions, **Insiders Analytics** mines EDGAR's insiders reports and produce analyses based on this data.
+
+**The information shared and produced by Insiders Analytics does not constitutes financial and/or investment advice. Data and analyses presented by Insiders Analytics may be subject to errors. You are encouraged to conduct your own financial research**.
 
 ### Markdown
 
