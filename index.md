@@ -1,8 +1,8 @@
 ## Insiders Analytics
 
-**Insiders Analytics provides free analyses and alarms on insiders´ trading based on data reported by the US Security and Exchange Commission (SEC).
+**Insiders Analytics provides free analyses and alarms on insiders´ trading based on data reported by the US Security and Exchange Commission (SEC).**
 
-**Don't miss daily reports and bi-weekly analyses [shipped on twitter @insidersanalyt1](https://twitter.com/insidersanalyt1).
+**Don't miss daily reports and bi-weekly analyses [shipped on twitter @insidersanalyt1](https://twitter.com/insidersanalyt1).**
 
 ## Insiders: Who are they 
 
