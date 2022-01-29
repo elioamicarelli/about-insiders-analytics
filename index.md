@@ -22,10 +22,10 @@ Researchers have shown that insiders transaction may contain information on futu
 
 **The information shared and produced by Insiders Analytics does not constitute financial and/or investment advice. Data and analyses presented by Insiders Analytics may be subject to errors, you are always strongly encouraged to conduct your own financial research**.
 
-## Features
+# Analyses
 
 This section describes the different analyses [reported on twitter @insidersanalyt1](https://twitter.com/insidersanalyt1)
 
-### Daily Reports
+## Daily Reports
 
 
