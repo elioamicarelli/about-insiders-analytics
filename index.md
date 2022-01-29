@@ -4,7 +4,7 @@
 
 **Don't miss daily reports and bi-weekly analyses, [follow Insiders Analytics on twitter @insidersanalyt1](https://twitter.com/insidersanalyt1).**
 
-**The information shared by Insiders Analytics does not constitutes financial and/or investment advice.**
+**The information shared by Insiders Analytics does not constitute financial and/or investment advice.**
 
 ## Insiders and Insider Trading
 
@@ -20,7 +20,7 @@ Corporate insiders are required to report their insider transactions within two 
 
 Researchers have shown that insiders transaction may contain information on future's stock performances{4}{5}{6}. In order to contribute to the public knowledge of insiders' transactions, **Insiders Analytics mines EDGAR's insiders reports and produce analyses based on this data**.
 
-**The information shared and produced by Insiders Analytics does not constitute financial and/or investment advice. Data and analyses presented by Insiders Analytics may be subject to errors, you are always strongly encouraged to conduct your own financial research**.
+**The information shared and produced by Insiders Analytics does not constitute financial and/or investment advice. Data and analyses presented by Insiders Analytics may be subject to errors, you are strongly encouraged to conduct your own financial research**.
 
 # **Analyses**
 
