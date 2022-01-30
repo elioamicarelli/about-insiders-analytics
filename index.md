@@ -1,12 +1,12 @@
 # **Insiders Analytics**
 
-**Insiders Analytics provides analyses on insiders' trading based on data mined from the US Security and Exchange Commission (SEC) databases.**
+**Insiders Analytics provides quantitative analyses on insiders' trading based on data mined from the US Security and Exchange Commission (SEC) databases.**
 
-**Don't miss free daily and bi-weekly analyses on insiders transactions! [Follow Insiders Analytics on twitter @insidersanalyt1](https://twitter.com/insidersanalyt1).**
+**Don't miss free analyses on insiders transactions! [Follow Insiders Analytics on twitter @insidersanalyt1](https://twitter.com/insidersanalyt1).**
 
 **The information shared by Insiders Analytics does not constitute financial and/or investment advice**.
 
-**Help this project to grow, showing your support is just one click away** :coffee:
+**Help this project to grow, showing your support is just one click away**
 
 <div style="text-align: center">
   <a href="https://www.buymeacoffee.com/elioami" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
