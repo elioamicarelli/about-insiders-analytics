@@ -26,7 +26,7 @@ The wealth of reports about insiders transactions collected and stored in EDGAR 
 
 # **Analyses Details**
 
-This section describes the different types of analysis [published on Insiders Analytics @insidersanalyt1](https://twitter.com/insidersanalyt1). 
+This section describes the different types of analysis [published on Twitter by Insiders Analytics](https://twitter.com/insidersanalyt1). 
 
 ## Daily Reports
 
