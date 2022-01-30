@@ -16,9 +16,9 @@
 
 ## Insiders and Insider Trading
 
-**Insider** is a term describing any person or entity that beneficially **owns more than 10% of a company's voting shares** {1}. 
+An **insider** is any person or entity **owning more than 10% of a company's voting shares** {1}. 
 
-Thanks to their privileged position, **insiders may have access to valuable information that has not been made available to the public** and that could substantially impact the company's stock price. 
+Thanks to their privileged position, **insiders may have access to information not yet available to the public** and that could impact the company's stock price. 
 
 **It's illegal for insiders to buy and sell shares of their company's stock based on their privileged information**. However, researchers have shown that **insiders transaction may be predictive of future's stock performances**{2}{3}{4}.
 
