@@ -7,7 +7,7 @@
 
 **The information shared by Insiders Analytics does not constitute financial and/or investment advice**.
 
-Showing your love is just one click away :point_right: [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/elioami)
+Help this project to grow, showing your love is just one click away :point_right: [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/elioami)
 
 
 ## Insiders and Insider Trading
