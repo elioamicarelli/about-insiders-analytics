@@ -6,7 +6,7 @@
 
  ► **Insiders Analytics provides quantitative analyses on insiders' trading based on data mined from the US Security and Exchange Commission (SEC).**
 
-**Don't miss free insider trading analyses! [Follow Insiders Analytics on twitter @insidersanalyt1](https://twitter.com/insidersanalyt1).**
+**Don't miss free analyses on insiders moves! [Follow Insiders Analytics on twitter @insidersanalyt1](https://twitter.com/insidersanalyt1).**
 
 **The information shared by Insiders Analytics does not constitute financial and/or investment advice**.
 
