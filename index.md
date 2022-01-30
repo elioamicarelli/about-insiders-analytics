@@ -28,7 +28,9 @@ However, research shows that **insiders transactions can be predictive of stock 
 
 Insiders are required to timely report their transactions to the SEC which make them publicly available via the **Electronic Data Gathering, Analysis, and Retrieval system (EDGAR)**{3}.
 
-**[Insiders Analytics](https://twitter.com/insidersanalyt1) mines EDGAR's insiders reports and produces automated reports and analytics based on this data**. Our mission is to contribute to market fairness by disseminating structured information about insiders' transactions. 
+**[Insiders Analytics](https://twitter.com/insidersanalyt1) mines EDGAR's insiders reports and produces automated reports and analytics based on this data**. 
+
+The project **mission** is to contribute to market fairness by disseminating structured information about insiders' transactions. 
 
 **The information shared and produced by Insiders Analytics does not constitute financial and/or investment advice. Data and analyses presented by Insiders Analytics may be subject to errors so you are strongly encouraged to conduct your own financial research**.
 
