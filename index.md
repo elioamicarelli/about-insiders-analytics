@@ -36,7 +36,7 @@ The project **mission** is to contribute to **market fairness** by disseminating
 
 # **Analyses Details**
 
-This section describes the different types of analysis [you can find on Insiders Analytics @insidersanalyt1](https://twitter.com/insidersanalyt1). 
+This section describes the different types of analysis [published on Insiders Analytics @insidersanalyt1](https://twitter.com/insidersanalyt1). 
 
 ## Daily Reports
 
