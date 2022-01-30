@@ -1,4 +1,3 @@
 theme: jekyll-theme-cayman
 
-github:
-is\_project\_page:false
+github: is\_project\_page:false
