@@ -18,16 +18,9 @@
 
 # **How does Insiders Analytics work**
 
-## Insiders and Insider Trading
+Thanks to their privileged position, **insiders may have access in advance to information that could impact the company stock price**. **Insiders are required by law to timely report their transactions** to the SEC which make them publicly available via the EDGAR system {3}.
 
-Thanks to their privileged position, **insiders may have access ahead of the public to information that could impact the company stock price**. 
-
- ► It's illegal for insiders to buy and sell shares based on their privileged information...however research shows that **insiders transactions can be predictive of stock performances** {2}{3}{4}.
-
-## Mining the SEC databases to track insiders' behavior 
-
-**Insiders are required by law to timely report their transactions** to the SEC which make them publicly available via the EDGAR system {3}.
-
+The 
 **[Insiders Analytics](https://twitter.com/insidersanalyt1) mines insiders reports and produces automated analyses based on the data extracted**. 
 
 **The project mission is to contribute to market fairness** by disseminating structured information about insiders' transactions. 
