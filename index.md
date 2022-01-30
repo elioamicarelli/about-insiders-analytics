@@ -22,7 +22,7 @@ Thanks to their privileged position, **insiders may have access ahead of the pub
 
 **It's illegal for insiders to buy and sell shares of their company's stock based on their privileged information**. 
 
-However, **insiders transaction can be predictive of stock performances**{2}{3}{4}.
+However, research shows that **insiders transaction can be predictive of stock performances**{2}{3}{4}.
 
 ## Mining the SEC databases to track insiders' behavior 
 
