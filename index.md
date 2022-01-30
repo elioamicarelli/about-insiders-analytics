@@ -1,6 +1,6 @@
 # **Insiders Analytics**
 
-**Insiders Analytics provides quantitative analyses on insiders' trading based on data mined from the US Security and Exchange Commission (SEC) databases.**
+**Insiders Analytics provides quantitative analyses on insiders' trading based on data mined from the US Security and Exchange Commission (SEC).**
 
 **Don't miss free analyses on insiders transactions! [Follow Insiders Analytics on twitter @insidersanalyt1](https://twitter.com/insidersanalyt1).**
 
@@ -16,13 +16,11 @@
 
 ## Insiders and Insider Trading
 
-An **insider** is any person or entity **owning more than 10% of a company's voting shares** {1}. 
+ ► An **insider** is any person or entity **owning more than 10% of a company's voting shares** {1}. 
 
-Thanks to their privileged position, **insiders may have access ahead of the public to information that could impact the company stock price**. 
+ ► Thanks to their privileged position, **insiders may have access ahead of the public to information that could impact the company stock price**. 
 
-It's illegal for insiders to buy and sell shares based on their privileged information. 
-
-However, research shows that **insiders transactions can be predictive of stock performances** {2}{3}{4}.
+ ► It's illegal for insiders to buy and sell shares based on their privileged information...however research shows that **insiders transactions can be predictive of stock performances** {2}{3}{4}.
 
 ## Mining the SEC databases to track insiders' behavior 
 
