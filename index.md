@@ -2,11 +2,11 @@
 
  ► **An insider is any person or entity owning more than 10% of a company's voting shares**.{1}
 
- ► **Research shows that insiders transactions can be predictive of stock performances** {2}{3}{4}
+ ► **Research shows that insiders transactions can be predictive of stock performances**. {2}{3}{4}
 
- ► **Insiders Analytics provides quantitative analyses on insiders' trading based on data mined from the US Security and Exchange Commission (SEC).**
+ ► **[Insiders Analytics](https://twitter.com/insidersanalyt1) provides quantitative analyses on insiders' trading based on data mined from the US Security and Exchange Commission (SEC).**
 
-**Don't miss free analyses on insiders moves! [Follow Insiders Analytics on twitter @insidersanalyt1](https://twitter.com/insidersanalyt1).**
+**Don't miss free analyses on insiders moves! [Follow Insiders Analytics on twitter](https://twitter.com/insidersanalyt1).**
 
 **The information shared by Insiders Analytics does not constitute financial and/or investment advice**.
 
