@@ -30,7 +30,7 @@ Insiders are required to timely report their transactions to the SEC which make 
 
 **[Insiders Analytics](https://twitter.com/insidersanalyt1) mines insiders reports and produces automated analyses based on the data extracted**. 
 
-**The project mission is to contribute to **market fairness** by disseminating structured information about insiders' transactions. 
+**The project mission is to contribute to market fairness** by disseminating structured information about insiders' transactions. 
 
 
 # **Analyses Details**
