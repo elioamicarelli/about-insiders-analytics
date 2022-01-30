@@ -28,7 +28,7 @@ Unfortunately, these documents stay silent until the data they contain are syste
 
 # **Analyses Details**
 
-This section describes the different types of analysis [published on Twitter by Insiders Analytics](https://twitter.com/insidersanalyt1). 
+This section describes different types of analysis [published on Twitter by Insiders Analytics](https://twitter.com/insidersanalyt1). 
 
 ## Daily Reports
 
