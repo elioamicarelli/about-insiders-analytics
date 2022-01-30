@@ -4,7 +4,7 @@
 
  ► **Research shows that insiders transactions can be predictive of stock performances**. {2}{3}{4}
 
- ► **[Insiders Analytics](https://twitter.com/insidersanalyt1) provides quantitative analyses on insiders' trading based on data mined from the US Security and Exchange Commission (SEC).**
+ ► **[Insiders Analytics](https://twitter.com/insidersanalyt1) provides quantitative analyses on insiders' transactions based on data mined from the US Security and Exchange Commission (SEC).**
 
 **Don't miss free analyses on insiders moves! [Follow Insiders Analytics on twitter](https://twitter.com/insidersanalyt1).**
 
