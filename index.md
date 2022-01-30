@@ -20,7 +20,9 @@ An **insider** is any person or entity **owning more than 10% of a company's vot
 
 Thanks to their privileged position, **insiders may have access ahead of the public to information that could impact the company stock price**. 
 
-**It's illegal for insiders to buy and sell shares of their company's stock based on their privileged information**. However, researchers have shown that **insiders transaction may be predictive of future's stock performances**{2}{3}{4}.
+**It's illegal for insiders to buy and sell shares of their company's stock based on their privileged information**. 
+
+However, researchers have shown that **insiders transaction can be predictive of stock performances**{2}{3}{4}.
 
 ## Mining the SEC databases to track insiders' behavior 
 
