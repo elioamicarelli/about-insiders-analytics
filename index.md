@@ -26,7 +26,7 @@ However, research shows that **insiders transactions can be predictive of stock 
 
 ## Mining the SEC databases to track insiders' behavior 
 
-** By law insiders are required to timely report their transactions** to the SEC which make them publicly available via EDGAR {3}.
+**By law insiders are required to timely report their transactions** to the SEC which make them publicly available via the EDGAR system {3}.
 
 **[Insiders Analytics](https://twitter.com/insidersanalyt1) mines insiders reports and produces automated analyses based on the data extracted**. 
 
