@@ -5,7 +5,7 @@
 **Don't miss free daily reports and bi-weekly analyses on insiders transactions! 
 [Follow Insiders Analytics on twitter @insidersanalyt1](https://twitter.com/insidersanalyt1).**
 
-Support this service with one click :point_right: [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/elioami)
+Support this service with one click :point_right:  :point_right:  :point_right:  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/elioami)
 
 **The information shared by Insiders Analytics does not constitute financial and/or investment advice**.
 
