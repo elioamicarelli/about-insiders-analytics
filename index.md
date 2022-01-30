@@ -6,7 +6,7 @@
 
  ► **[Insiders Analytics](https://twitter.com/insidersanalyt1) provides quantitative analyses on insiders' transactions based on data mined from the US Security and Exchange Commission (SEC).**
 
-**Don't miss free analyses on insiders moves! [Follow Insiders Analytics on twitter](https://twitter.com/insidersanalyt1).**
+**Don't miss free analyses on insiders moves! [Follow Insiders Analytics on Twitter](https://twitter.com/insidersanalyt1)!**
 
 **The information shared by Insiders Analytics does not constitute financial and/or investment advice**.
 
