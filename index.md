@@ -2,7 +2,9 @@
 
 **Insiders Analytics provides quantitative analyses on insiders' trading based on data mined from the US Security and Exchange Commission (SEC).**
 
-**Don't miss free analyses on insiders transactions! [Follow Insiders Analytics on twitter @insidersanalyt1](https://twitter.com/insidersanalyt1).**
+**The project mission is to contribute to market fairness by disseminating analyses about insiders’ transactions**.
+
+**Don't miss free insider trading analyses! [Follow Insiders Analytics on twitter @insidersanalyt1](https://twitter.com/insidersanalyt1).**
 
 **The information shared by Insiders Analytics does not constitute financial and/or investment advice**.
 
