@@ -20,9 +20,9 @@
 
 Thanks to their privileged position, **insiders may have access in advance to information that could impact a company stock price**. To enhance market fairness, **insiders are required by law to timely report their transactions** to the SEC which in turn make them publicly available via the EDGAR system {3}.
 
-The wealth of reports about insiders transactions collected and stored in EDGAR is astonishing. However, these documents stay silent until the data they contain are systematically extracted, analyzed and presented to the general public.
+The amount of reports about insiders transactions collected and stored in EDGAR is astonishing. However, these documents stay silent until the data they contain are systematically extracted, analyzed and presented to the general public. **[Insiders Analytics](https://twitter.com/insidersanalyt1) is a bot which does exactly that!** :robot:
 
-**[Insiders Analytics](https://twitter.com/insidersanalyt1) is a bot which does exactly that! It mines insiders reports, produces analyses based on the data extracted, and delivers the analytics directly into your Twitter feed**. 
+It mines insiders reports, produces analyses based on the data extracted, and delivers the analytics directly to your Twitter feed. 
 
 # **Analyses Details**
 
