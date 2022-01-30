@@ -1,8 +1,8 @@
 # **Insiders Analytics**
 
-**Insiders Analytics provides quantitative analyses on insiders' trading based on data mined from the US Security and Exchange Commission (SEC).**
+**Research shows that **insiders transactions can be predictive of stock performances** {2}{3}{4}
 
-**The project mission is to contribute to market fairness by disseminating analyses about insiders’ transactions**.
+**Insiders Analytics provides quantitative analyses on insiders' trading based on data mined from the US Security and Exchange Commission (SEC).**
 
 **Don't miss free insider trading analyses! [Follow Insiders Analytics on twitter @insidersanalyt1](https://twitter.com/insidersanalyt1).**
 
