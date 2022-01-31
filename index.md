@@ -2,7 +2,7 @@
 
  ► **An insider is any person or entity owning more than 10% of a company's voting shares**.{1}
 
- ► **Research shows that insiders transactions can be predictive of stock performances**. {2}{3}{4}
+ ► **Research shows that insiders transactions can be predictive of a company's stock performances**. {2}{3}{4}
 
  ► **[Insiders Analytics](https://twitter.com/insidersanalyt1) provides quantitative analyses on insiders' transactions based on data mined from the US Security and Exchange Commission (SEC).**
 
@@ -24,7 +24,7 @@ To enhance market fairness, **insiders are required by law to timely report thei
 
 Unfortunately, these documents stay silent until the data they contain are systematically extracted, analyzed and presented to the general public. 
 
-**[Insiders Analytics](https://twitter.com/insidersanalyt1) is a bot which does exactly that! It mines insiders reports, produces analyses based on the data extracted, and delivers the analytics directly to your Twitter feed**. :robot: :robot: :robot: 
+**[Insiders Analytics](https://twitter.com/insidersanalyt1) is a bot which does exactly that! It mines insiders reports, produces analyses based on the data extracted, and delivers daily analytics directly to your Twitter feed**. :robot: :robot: :robot: 
 
 # **Analyses Details**
 
