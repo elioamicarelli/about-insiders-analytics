@@ -8,13 +8,18 @@
 
 **Don't miss free analyses on insiders moves! [Follow Insiders Analytics on Twitter](https://twitter.com/insidersanalyt1)!**
 
-**The information shared by Insiders Analytics does not constitute financial and/or investment advice**.
-
-<div align="center"> <p> <strong> Help this project to grow, showing your support is just one click away </strong> </p> </div>
+<div align="center"> <span style="color:blue"> <p> <strong> Help this project to grow, showing your support is just one click away </strong> </p> </span> </div>
 
 <div style="text-align: center">
   <a href="https://www.buymeacoffee.com/..." target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-</div>
+
+ <div style="text-align: center">◆</div>
+ 
+ <div style="text-align: center">◆</div>
+ 
+ <div style="text-align: center">◆</div>
+ 
+ **The information shared by Insiders Analytics does not constitute financial and/or investment advice**.
 
 # **How does Insiders Analytics work**
 
