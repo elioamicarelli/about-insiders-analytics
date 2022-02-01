@@ -38,6 +38,21 @@ This section describes different types of analysis [published on Twitter by Insi
 
 ## Daily Reports
 
+### 1. ** Last Insiders Purchases and Sales **
+
+### 2. ** Large Insiders Purchases and Sales **
+
+## Weekly Reports
+
+### 3. ** Sectors Insiders Summaries **
+
+## Monthly Reports
+
+### 4. Insiders Analytics Golden Nudgets
+
+
+
+
 
 
 
