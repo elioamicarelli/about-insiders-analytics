@@ -32,7 +32,7 @@ Unfortunately, these documents stay silent until the data they contain are syste
 
 **[Insiders Analytics](https://twitter.com/insidersanalyt1) is a bot which does exactly that! It mines insiders reports, produces analyses based on the data extracted, and delivers daily analytics directly to your Twitter feed**. :robot: :robot: :robot: 
 
-# **Analyses Details**
+# **Analyses Details WIP **
 
 This section describes different types of analysis [published on Twitter by Insiders Analytics](https://twitter.com/insidersanalyt1). 
 
@@ -40,15 +40,13 @@ This section describes different types of analysis [published on Twitter by Insi
 
 ### 1. Last Insiders Purchases and Sales
 
-### 2. Large Insiders Purchases and Sales
-
 ## Weekly Reports
 
-### 3. Insiders Summaries by Sector
+### 2. Insiders Summaries by Sector WIP
 
 ## Monthly Reports
 
-### 4. Insiders Analytics Golden Nudgets
+### 3. Insiders Analytics Golden Nudgets WIP
 
 
 
