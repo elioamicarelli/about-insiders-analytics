@@ -1,6 +1,6 @@
 # **Insiders Analytics**
 
- ► **An insider is any person or entity owning more than 10% of a company's voting shares**.{1}
+ ► **An insider is any person or entity owning more than 10% of a company's voting shares**.[1]
 
  ► **Research shows that insiders transactions can be predictive of a company's stock performances**. {2}{3}{4}
 
