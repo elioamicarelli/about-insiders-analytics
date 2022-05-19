@@ -28,7 +28,7 @@
 
 Thanks to their privileged position, **insiders may have access in advance to information that could impact a company stock price**. 
 
-To enhance market fairness, **insiders are required by law to timely report their transactions** to the SEC which in turn makes them publicly available via the EDGAR system {3}.
+To enhance market fairness, **insiders are required by law to timely report their transactions** to the SEC which in turn makes them publicly available via the EDGAR system [5].
 
 Unfortunately, these documents stay silent until the data they contain are systematically extracted, analyzed and presented to the general public. 
 
@@ -42,5 +42,8 @@ Unfortunately, these documents stay silent until the data they contain are syste
 
 [3] [Insider trading patterns - Journal of Corporate Finance](https://www.sciencedirect.com/science/article/abs/pii/S0929119920300985)
 
-[4] [What do insiders know? - Journal of Corporate Finance](What do insiders know?)
+[4] [What do insiders know? - Journal of Corporate Finance](https://www.sciencedirect.com/science/article/abs/pii/S0929119918308824)
+
+[5] [EDGAR, the Electronic Data Gathering, Analysis, and Retrieval system - US SEC](https://www.sec.gov/edgar/about)
+
 
