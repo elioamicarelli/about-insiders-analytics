@@ -34,24 +34,13 @@ Unfortunately, these documents stay silent until the data they contain are syste
 
 **[Insiders Analytics](https://twitter.com/insidersanalyt1) does exactly that! It mines insiders reports, produces analyses based on the data extracted, and delivers daily analytics directly to your Twitter feed**. 🤖: 👁️: 💸: 
 
-# **Analyses Details WIP **
-
-This section describes different types of analysis [published on Twitter by Insiders Analytics](https://twitter.com/insidersanalyt1). 
-
-## 1. Daily Reports
-
-### Insiders transactions with Price Action
-
-## 2. Weekly Reports
-
-### Insiders transactions summarized by Sector 
-
-## Monthly Reports
-
-### Work In Progress
-
 # **References**
 
 [1] [What is an insider? Investopedia](https://www.investopedia.com/terms/i/insider.asp)
 
-[2] [Investment Intelligence from Insider Trading](https://www.amazon.com/Investment-Intelligence-Insider-Trading-Press/dp/0262692341/ref=sr_1_1?crid=T3S28N7XQYHT&keywords=Investment+Intelligence+from+Insider+Trading&qid=1652964790&sprefix=%2Caps%2C1378&sr=8-1)
+[2] [Investment Intelligence from Insider Trading - H. Nejat Seyhun](https://www.amazon.com/Investment-Intelligence-Insider-Trading-Press/dp/0262692341/ref=sr_1_1?crid=T3S28N7XQYHT&keywords=Investment+Intelligence+from+Insider+Trading&qid=1652964790&sprefix=%2Caps%2C1378&sr=8-1)
+
+[3] [Insider trading patterns - Journal of Corporate Finance](https://www.sciencedirect.com/science/article/abs/pii/S0929119920300985)
+
+[4] [What do insiders know? - Journal of Corporate Finance](What do insiders know?)
+
