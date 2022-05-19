@@ -32,28 +32,20 @@ To enhance market fairness, **insiders are required by law to timely report thei
 
 Unfortunately, these documents stay silent until the data they contain are systematically extracted, analyzed and presented to the general public. 
 
-**[Insiders Analytics](https://twitter.com/insidersanalyt1) is a bot which does exactly that! It mines insiders reports, produces analyses based on the data extracted, and delivers daily analytics directly to your Twitter feed**. :robot: :robot: :robot: 
+**[Insiders Analytics](https://twitter.com/insidersanalyt1) does exactly that! It mines insiders reports, produces analyses based on the data extracted, and delivers daily analytics directly to your Twitter feed**. 🤖: 👁️: 💸: 
 
 # **Analyses Details WIP **
 
 This section describes different types of analysis [published on Twitter by Insiders Analytics](https://twitter.com/insidersanalyt1). 
 
-## Daily Reports
+## 1. Daily Reports
 
-### 1. Last Insiders Purchases and Sales
+### Insiders transactions with Price Action
 
-## Weekly Reports
+## 2. Weekly Reports
 
-### 2. Insiders Summaries by Sector WIP
+### Insiders transactions summarized by Sector 
 
 ## Monthly Reports
 
-### 3. Insiders Analytics Golden Nudgets WIP
-
-
-
-
-
-
-
-
+### Work In Progress
