@@ -32,7 +32,7 @@ To enhance market fairness, **insiders are required by law to timely report thei
 
 Unfortunately, these documents stay silent until the data they contain are systematically extracted, analyzed and presented to the general public. 
 
-**[Insiders Analytics](https://twitter.com/insidersanalyt1) does exactly that! It mines insiders reports, produces analyses based on the data extracted, and delivers daily analytics directly to your Twitter feed**. 🤖: 👁️: 💸: 
+**[Insiders Analytics](https://twitter.com/insidersanalyt1) does exactly that! It mines insiders reports, produces analyses based on the data extracted, and delivers daily analytics directly to your Twitter feed**. 🤖 👁️ 💸 
 
 # **References**
 
