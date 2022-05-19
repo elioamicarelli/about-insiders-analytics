@@ -54,4 +54,4 @@ This section describes different types of analysis [published on Twitter by Insi
 
 [1] [What is an insider? Investopedia](https://www.investopedia.com/terms/i/insider.asp)
 
-[2] [Investment Intelligence from Insider Trading](hhttps://www.amazon.com/Investment-Intelligence-Insider-Trading-Press/dp/0262692341/ref=sr_1_1?crid=T3S28N7XQYHT&keywords=Investment+Intelligence+from+Insider+Trading&qid=1652964790&sprefix=%2Caps%2C1378&sr=8-1))
+[2] [Investment Intelligence from Insider Trading](https://www.amazon.com/Investment-Intelligence-Insider-Trading-Press/dp/0262692341/ref=sr_1_1?crid=T3S28N7XQYHT&keywords=Investment+Intelligence+from+Insider+Trading&qid=1652964790&sprefix=%2Caps%2C1378&sr=8-1))
