@@ -8,7 +8,7 @@
 
 **Don't miss free analyses on insiders moves! [Follow Insiders Analytics on Twitter](https://twitter.com/insidersanalyt1)!**
 
-<div align="center"> <span style="color:green"> <p> <strong> <font size="+2"> Help this project to grow, your support is just one click away </font> </strong> </p> </span> </div>
+<div align="center"> <span style="color:green"> <p> <strong> <font size="+2"> Help this project to grow, your support is very important </font> </strong> </p> </span> </div>
 
 <div style="text-align: center">
 <a href="https://www.buymeacoffee.com/elioami" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 70px !important;width: 253px !important;" ></a>
