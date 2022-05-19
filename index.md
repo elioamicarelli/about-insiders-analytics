@@ -4,11 +4,11 @@
 
  ► **Research shows that insiders transactions can be predictive of a company's stock performances**. {2}{3}{4}
 
- ► **[Insiders Analytics](https://twitter.com/insidersanalyt1) provides quantitative analyses on insiders' transactions based on data mined from the US Security and Exchange Commission (SEC).**
+ ► **[Insiders Analytics](https://twitter.com/insidersanalyt1) mines the SEC databases and ships daily quantitative analyses on insiders' transactions directly to your Twitter feed.**
 
 **Don't miss free analyses on insiders moves! [Follow Insiders Analytics on Twitter](https://twitter.com/insidersanalyt1)!**
 
-<div align="center"> <span style="color:green"> <p> <strong> Help this project to grow, showing your support is just one click away </strong> </p> </span> </div>
+<div align="center"> <span style="color:green"> <p> <strong> <font size="+2"> Help this project to grow, your support is just one click away </font> </strong> </p> </span> </div>
 
 <div style="text-align: center">
   <a href="https://www.buymeacoffee.com/..." target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
